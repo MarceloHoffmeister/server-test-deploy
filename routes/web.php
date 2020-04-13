@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return 'Deploy testing';
+    return 'Deploy testing number 2';
 });
